@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataMaintenanceUtilities">
+</Property><Property Name="Solution File" Value="D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\DataMaintenanceUtilities.sln">
+</Property><Property Name="User Options File" Value="D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\DataMaintenanceUtilities.suo">
+</Property><Property Name="Date" Value="Friday, August 21, 2009">
+</Property><Property Name="Time" Value="15:17 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DataMaintenanceUtilities.sln" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\DataMaintenanceUtilities.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DataMaintenanceUtilities.suo" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\DataMaintenanceUtilities.suo">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="DataMaintenanceUtilities.csproj" Description="Project file successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\DataMaintenanceUtilities.csproj">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="ConfigFileManager.cs" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\ConfigFileManager.cs">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="EncryptionManager.cs" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\EncryptionManager.cs">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="GeneralUtilities.cs" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\GeneralUtilities.cs">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="INIFileManager.cs" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\INIFileManager.cs">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="LoadInformation.cs" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\LoadInformation.cs">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="LogFileManager.cs" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\LogFileManager.cs">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="ParameterManager.cs" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\ParameterManager.cs">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="PathManager.cs" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\PathManager.cs">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="XMLSetttingsFileManager.cs" Description="File successfully backed up as D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\Backup\XMLSetttingsFileManager.cs">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="DataMaintenanceUtilities.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataMaintenanceUtilities" Source="DataMaintenanceUtilities.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DataMaintenanceUtilities.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataMaintenanceUtilities.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="DataMaintenanceUtilities.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

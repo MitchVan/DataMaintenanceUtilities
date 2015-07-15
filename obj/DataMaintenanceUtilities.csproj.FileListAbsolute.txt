@@ -1,0 +1,6 @@
+D:\Development\Applications .NET\2005\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.dll
+D:\Development\Applications .NET\2005\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.pdb
+D:\Development\Applications .NET\2005\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Applications .NET\2005\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.dll
+D:\Development\Applications .NET\2005\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.pdb
+D:\Development\Applications .NET\2005\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\AMS.Profile.xml

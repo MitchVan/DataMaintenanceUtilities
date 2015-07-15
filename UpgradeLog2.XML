@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataMaintenanceUtilities">
+</Property><Property Name="Solution File" Value="D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\DataMaintenanceUtilities.sln">
+</Property><Property Name="Date" Value="Tuesday, May 01, 2012">
+</Property><Property Name="Time" Value="10:08 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="DataMaintenanceUtilities" Source="DataMaintenanceUtilities.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataMaintenanceUtilities" Source="DataMaintenanceUtilities.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="DataMaintenanceUtilities.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataMaintenanceUtilities.sln" Description="Converted">
+</Event></UpgradeLog>

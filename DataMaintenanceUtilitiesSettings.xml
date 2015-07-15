@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profile>
+  <section name="DatabaseDefinitions">
+    <entry name="MonitorDatabaseServer">GISDB1</entry>
+    <entry name="MonitorDatabase">ImportMonitor</entry>
+    <entry name="MonitorTableName">Geodatabase102_Load_Status</entry>
+	<entry name="LoadParemetersTableName">CGISDataLoader102_Parameters</entry>
+  </section>
+</profile>

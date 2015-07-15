@@ -1,0 +1,38 @@
+D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\AMS.Profile.dll
+D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\AMS.Profile.xml
+D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.dll
+D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.pdb
+D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.dll
+D:\Development\Applications .NET\2008\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.pdb
+C:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.dll
+C:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.pdb
+C:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\AMS.Profile.xml
+C:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.dll
+C:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.pdb
+C:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataManagementTools.dll
+C:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataManagementTools.xml
+D:\Development\Applications.NET\2010\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilitiesSettings.xml
+D:\Development\Applications.NET\2010\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.dll.config
+D:\Development\Applications.NET\2010\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.dll
+D:\Development\Applications.NET\2010\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.pdb
+D:\Development\Applications.NET\2010\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\AMS.Profile.xml
+D:\Development\Applications.NET\2010\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Applications.NET\2010\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.dll
+D:\Development\Applications.NET\2010\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.pdb
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.dll.config
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.dll
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataMaintenanceUtilities.pdb
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.dll
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.pdb
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataLoaderUtilities.dll
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\Debug\DataLoaderUtilities.pdb
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\DebugX64\DataMaintenanceUtilities.dll.config
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\DebugX64\DataMaintenanceUtilities.dll
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\DebugX64\DataMaintenanceUtilities.pdb
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\DebugX64\DataLoaderUtilities.dll
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\DebugX64\Ionic.Zip.dll
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\DebugX64\DataLoaderUtilities.pdb
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\bin\DebugX64\FMEObjectsDotNet4.dll
+D:\Development\Utilities\Data Maintenance Utilities\DataMaintenanceUtilities\obj\Debug\DataMaintenanceUtilities.csprojResolveAssemblyReference.cache
